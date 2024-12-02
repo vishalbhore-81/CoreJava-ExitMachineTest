@@ -1,0 +1,4 @@
+Deposited: 2000.0, Balance: 7000.0
+Withdrawn: 500.0, Balance: 6500.0
+Withdrawn: 1000.0, Balance: 5500.0
+Transferred: 1000.0 to 2
